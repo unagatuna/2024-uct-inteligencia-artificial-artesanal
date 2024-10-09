@@ -12,6 +12,8 @@
 * Cada carpeta se trabaja de forma manual
 * Markdown Cheatsheet, repositorio de términos generales en programacion
 * para agregar pantallasos ![nombre qe es] (nombre de la foto)
+* <img width="959" alt="pantallaso" src="https://github.com/user-attachments/assets/cdc669f0-30da-4e75-8e76-d2513b878528">
+
 
 ## Términos y símbologia
 *# titulo
